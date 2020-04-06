@@ -1,0 +1,19 @@
+.mr-15px {
+  margin-top: 15px;
+}
+.w100 {
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+}
+
+.bold-18px {
+  font-weight: bold;
+  font-size: 18px;
+  color: orangered;
+}
